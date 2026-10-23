@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /extension/
+Sitemap: https://stackcut.online/sitemap.xml
